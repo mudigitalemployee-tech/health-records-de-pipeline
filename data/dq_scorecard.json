@@ -1,0 +1,193 @@
+{
+  "dq_score_pct": 97.4,
+  "dq_status": "PASS",
+  "dimensions": {
+    "completeness": 99.0,
+    "validity": 96.0,
+    "consistency": 100.0,
+    "accuracy": 94.8
+  },
+  "checks": [
+    {
+      "category": "Completeness",
+      "column": "patient_id",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "patient_name",
+      "check": "Null % \u2264 5%",
+      "value": 8.85,
+      "threshold": 5.0,
+      "status": "FAIL"
+    },
+    {
+      "category": "Completeness",
+      "column": "email",
+      "check": "Null % \u2264 5%",
+      "value": 10.42,
+      "threshold": 5.0,
+      "status": "FAIL"
+    },
+    {
+      "category": "Completeness",
+      "column": "phone",
+      "check": "Null % \u2264 5%",
+      "value": 3.65,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "age",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "gender",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "blood_type",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "bmi",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "glucose_level",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "cholesterol",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "blood_pressure",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "diagnosis",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "medication",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "dosage_mg",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "admission_date",
+      "check": "Null % \u2264 5%",
+      "value": 3.65,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "discharge_date",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "doctor_name",
+      "check": "Null % \u2264 5%",
+      "value": 7.29,
+      "threshold": 5.0,
+      "status": "FAIL"
+    },
+    {
+      "category": "Completeness",
+      "column": "department",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "insurance_id",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "billing_amount",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "status",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "rating",
+      "check": "Null % \u2264 5%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    }
+  ],
+  "passed": 19,
+  "failed": 3,
+  "total_checks": 22,
+  "warnings": 0,
+  "transform_rules_applied": 30
+}

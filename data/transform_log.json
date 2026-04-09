@@ -1,0 +1,195 @@
+[
+  {
+    "rule": "blank_normalization",
+    "action": "Converted 15 empty/whitespace string(s) to NaN",
+    "detail": {
+      "blood_type": 15
+    },
+    "rows_affected": 15
+  },
+  {
+    "rule": "drop_critical_nulls",
+    "action": "Dropped 6 row(s) \u2014 null critical field 'patient_id'",
+    "column": "patient_id",
+    "rows_affected": 6
+  },
+  {
+    "rule": "drop_critical_nulls",
+    "action": "Dropped 3 row(s) \u2014 null critical field 'admission_date'",
+    "column": "admission_date",
+    "rows_affected": 3
+  },
+  {
+    "rule": "impute_missing",
+    "column": "gender",
+    "strategy": "mode",
+    "fill_value": "Male",
+    "rows_affected": 9,
+    "action": "Filled 9 null(s) with mode ('Male')"
+  },
+  {
+    "rule": "impute_missing",
+    "column": "blood_type",
+    "strategy": "mode",
+    "fill_value": "AB-",
+    "rows_affected": 15,
+    "action": "Filled 15 null(s) with mode ('AB-')"
+  },
+  {
+    "rule": "impute_missing",
+    "column": "blood_pressure",
+    "strategy": "mode",
+    "fill_value": "100/73",
+    "rows_affected": 9,
+    "action": "Filled 9 null(s) with mode ('100/73')"
+  },
+  {
+    "rule": "impute_missing",
+    "column": "diagnosis",
+    "strategy": "mode",
+    "fill_value": "Migraine",
+    "rows_affected": 7,
+    "action": "Filled 7 null(s) with mode ('Migraine')"
+  },
+  {
+    "rule": "impute_missing",
+    "column": "department",
+    "strategy": "mode",
+    "fill_value": "Pediatrics",
+    "rows_affected": 8,
+    "action": "Filled 8 null(s) with mode ('Pediatrics')"
+  },
+  {
+    "rule": "impute_missing",
+    "column": "status",
+    "strategy": "mode",
+    "fill_value": "Admitted",
+    "rows_affected": 17,
+    "action": "Filled 17 null(s) with mode ('Admitted')"
+  },
+  {
+    "rule": "email_validation",
+    "column": "email",
+    "rows_affected": 20,
+    "action": "20 invalid email(s) \u2192 nullified, email_valid_flag added"
+  },
+  {
+    "rule": "phone_validation",
+    "column": "phone",
+    "rows_affected": 8,
+    "action": "8 invalid phone(s) \u2192 nullified, phone_valid_flag added"
+  },
+  {
+    "rule": "negative_value_handling",
+    "column": "billing_amount",
+    "rows_affected": 11,
+    "action": "11 negative(s) in 'billing_amount' \u2192 abs(), billing_amount_negative_flag added"
+  },
+  {
+    "rule": "date_validation",
+    "column": "admission_date",
+    "rows_affected": 7,
+    "action": "7 invalid date(s) in 'admission_date' flagged, valid \u2192 YYYY-MM-DD"
+  },
+  {
+    "rule": "business_validation",
+    "column": "bmi",
+    "rows_affected": 8,
+    "action": "8 violation(s) \u2192 Flagged only (values not modified), bmi_valid_flag set"
+  },
+  {
+    "rule": "business_validation",
+    "column": "glucose_level",
+    "rows_affected": 6,
+    "action": "6 violation(s) \u2192 Flagged only (values not modified), glucose_level_valid_flag set"
+  },
+  {
+    "rule": "business_validation",
+    "column": "dosage_mg",
+    "rows_affected": 53,
+    "action": "53 violation(s) \u2192 Flagged only (values not modified), dosage_mg_valid_flag set"
+  },
+  {
+    "rule": "business_validation",
+    "column": "rating",
+    "rows_affected": 11,
+    "action": "11 violation(s) \u2192 Clamped to [0,5], rating_valid_flag set"
+  },
+  {
+    "rule": "text_standardization",
+    "column": "gender",
+    "rows_affected": 196,
+    "action": "'gender': UPPER + strip + clean special chars (196 changed)"
+  },
+  {
+    "rule": "text_standardization",
+    "column": "blood_type",
+    "rows_affected": 74,
+    "action": "'blood_type': UPPER + strip + clean special chars (74 changed)"
+  },
+  {
+    "rule": "text_standardization",
+    "column": "diagnosis",
+    "rows_affected": 178,
+    "action": "'diagnosis': UPPER + strip + clean special chars (178 changed)"
+  },
+  {
+    "rule": "text_standardization",
+    "column": "department",
+    "rows_affected": 196,
+    "action": "'department': UPPER + strip + clean special chars (196 changed)"
+  },
+  {
+    "rule": "text_standardization",
+    "column": "status",
+    "rows_affected": 196,
+    "action": "'status': UPPER + strip + clean special chars (196 changed)"
+  },
+  {
+    "rule": "duplicate_detection",
+    "action": "Removed 4 duplicate row(s) | 192 remain",
+    "rows_affected": 4
+  },
+  {
+    "rule": "pii_masking",
+    "column": "patient_id",
+    "action": "SHA256-hashed PII column 'patient_id'",
+    "rows_affected": 192
+  },
+  {
+    "rule": "pii_masking",
+    "column": "patient_name",
+    "action": "SHA256-hashed PII column 'patient_name'",
+    "rows_affected": 175
+  },
+  {
+    "rule": "pii_masking",
+    "column": "email",
+    "action": "SHA256-hashed PII column 'email'",
+    "rows_affected": 172
+  },
+  {
+    "rule": "pii_masking",
+    "column": "phone",
+    "action": "SHA256-hashed PII column 'phone'",
+    "rows_affected": 185
+  },
+  {
+    "rule": "pii_masking",
+    "column": "gender",
+    "action": "SHA256-hashed PII column 'gender'",
+    "rows_affected": 192
+  },
+  {
+    "rule": "pii_masking",
+    "column": "diagnosis",
+    "action": "SHA256-hashed PII column 'diagnosis'",
+    "rows_affected": 192
+  },
+  {
+    "rule": "pii_masking",
+    "column": "doctor_name",
+    "action": "SHA256-hashed PII column 'doctor_name'",
+    "rows_affected": 178
+  }
+]

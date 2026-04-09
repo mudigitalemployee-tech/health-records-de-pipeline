@@ -1,0 +1,206 @@
+patient_id,patient_name,email,phone,age,gender,blood_type,bmi,glucose_level,cholesterol,blood_pressure,diagnosis,medication,dosage_mg,admission_date,discharge_date,doctor_name,department,insurance_id,billing_amount,status,rating
+PAT0001,Rohit Gupta,rohit@hospital.com,+917478163327,21,Other,,-16.7,105,146,143/94,Type 2 Diabetes,Aspirin,250,2022-03-07,2022-03-08,Dr. Rahul Mehta,,INS343962,128812.05,Discharged,5
+PAT0002,Sunita Singh,sunita@hospital.com,+919791232393,71,Male,AB-,30.6,277,121,148/70,Anemia,Omeprazole,50,2022-11-15,2022-11-22,Dr. Ravi Kumar,Neurology,INS197251,98082.19,Under Observation,3
+PAT0003,Kavitha Iyer,kavitha@hospital.com,+918136108454,23,Other,AB-,29.3,166,140,,Acute Bronchitis,Omeprazole,25,2022-05-23,2022-05-25,Dr. Vikram Nair,Pediatrics,INS183667,-9960.6,Discharged,4
+PAT0004,,vikram@hospital.com,+918947382419,64,Male,O-,-6.1,241,188,144/64,Acute Bronchitis,Atorvastatin,25,2022-12-01,2022-12-16,Dr. Deepa Patel,Pediatrics,INS771088,173599.68,Admitted,3
+PAT0005,Neha Tiwari,neha@hospital.com,+917240251661,47,Male,O-,26.2,86,174,158/96,Migraine,Amlodipine,500,,2024-04-19,,Orthopedics,INS377746,39209.43,Stable,5
+PAT0006,Vikram Nair,not_an_email,+919510777721,72,Other,AB+,25.3,105,250,131/65,Hypertension,Lisinopril,20,2022-11-24,2022-12-20,Dr. Deepa Patel,Neurology,INS503457,98496.73,Critical,5
+PAT0007,Vikram Nair,vikram@hospital.com,+919376087131,19,Other,A-,32.7,207,188,149/81,Type 2 Diabetes,Levothyroxine,250,2022-11-20,2022-12-05,Dr. Priya Sharma,Pediatrics,INS624902,191680.74,Stable,1
+PAT0008,Neha Tiwari,neha@hospital.com,+919685643886,56,Other,B-,20.5,265,161,134/93,Hypertension,Aspirin,100,31-Feb-2023,2024-09-28,Dr. Rahul Mehta,General Medicine,INS972064,202659.83,Admitted,1
+PAT0009,Sunita Singh,sunita@hospital.com,+919436779490,28,Male,AB-,35.8,264,256,149/68,Coronary Artery Disease,Salbutamol,20,2023-06-27,2023-07-14,Dr. Deepa Patel,Oncology,INS665492,190039.97,Admitted,3
+PAT0010,Deepak Kumar,@,+919884873529,65,Female,AB-,19.8,127,136,121/61,Acute Bronchitis,Ibuprofen,25,2023-03-28,2023-03-29,Dr. Rahul Mehta,,INS340062,21513.08,Discharged,3
+PAT0011,Priya Patel,priya@hospital.com,+919208283728,48,Female,AB-,21.9,103,266,136/90,Asthma,Salbutamol,250,2023-01-25,2023-01-29,Dr. Rahul Mehta,Endocrinology,INS471507,108776.76,Critical,1
+PAT0012,Rohit Gupta,rohit@hospital.com,+919806569935,30,Male,AB+,33.7,274,147,115/72,Asthma,Ibuprofen,500,2022-10-15,2022-10-29,Dr. Anjali Singh,Pediatrics,INS585100,-40933.25,Discharged,4
+PAT0013,Anil Mishra,a@b,+919363629219,30,Male,A+,39.3,262,180,110/86,,Salbutamol,25,2024-04-01,2024-04-30,Dr. Priya Sharma,Orthopedics,INS497382,5528.07,Critical,3
+PAT0014,Sanjay Yadav,sanjay@hospital.com,+918954246074,54,Female,AB-,20.6,145,175,,Hypothyroidism,Metformin,100,2022-04-28,2022-04-30,Dr. Arun Verma,Orthopedics,INS159642,240390.83,,2
+PAT0015,Priya Patel,priya@hospital.com,+919555656321,26,Other,B-,26.3,297,265,115/97,Acute Bronchitis,Metformin,10,2024-05-08,2024-05-30,Dr. Ravi Kumar,Pediatrics,INS314181,169082.86,Under Observation,2
+PAT0016,Vikram Nair,vikram@hospital.com,+918699887270,34,Other,O+,27.5,262,138,100/89,Acute Bronchitis,Aspirin,10,2022-05-31,2022-06-18,Dr. Vikram Nair,Pediatrics,INS238890,233648.55,Discharged,2
+PAT0017,Anjali Joshi,anjali@hospital.com,+918224011538,38,Female,O+,31.1,276,255,100/95,Osteoporosis,Lisinopril,20,2023-06-26,2023-06-30,Dr. Rahul Mehta,Orthopedics,INS385577,74030.29,Admitted,3
+PAT0018,Sunita Singh,sunita@hospital.com,+919952777682,51,Other,AB-,22.8,286,133,105/100,Anemia,Levothyroxine,5,2022-01-08,2022-01-19,Dr. Anjali Singh,Pediatrics,INS269430,186601.57,Stable,4
+PAT0019,Suresh Reddy,suresh@hospital.com,+917041531046,32,Male,B+,29.5,283,214,137/95,Coronary Artery Disease,Insulin,20,2022-03-27,2022-04-06,Dr. Ravi Kumar,Cardiology,INS475190,56468.75,Admitted,1
+PAT0020,Anjali Joshi,anjali@hospital.com,+919404681399,70,Other,B+,38.3,130,161,151/71,Anemia,Metformin,20,2023-11-12,2023-12-08,Dr. Deepa Patel,Oncology,INS379766,44003.47,Discharged,4
+PAT0021,Neha Tiwari,neha@hospital.com,+917166320906,78,Male,B-,35.8,187,209,119/74,Asthma,Metformin,25,2024-03-27,2024-04-07,,Neurology,INS910891,73385.62,Stable,4
+PAT0022,Rohit Gupta,rohit@hospital.com,+919303029031,60,Male,A-,37.2,136,165,137/76,Hypertension,Lisinopril,250,2023-12-09,2024-01-02,Dr. Ravi Kumar,Endocrinology,INS735656,246137.78,Discharged,4
+PAT0023,Sanjay Yadav,sanjay@hospital.com,+919476426797,42,Female,A+,33.3,70,253,159/94,Asthma,Omeprazole,250,2022-05-24,2022-06-15,,General Medicine,INS795612,212763.74,Under Observation,5
+PAT0024,Vikram Nair,vikram@hospital.com,+919864283209,70,Female,AB+,33.0,211,152,112/86,Anemia,Atorvastatin,50,2024-04-11,2024-04-29,Dr. Priya Sharma,,INS400850,56494.76,Stable,5
+PAT0025,Rohit Gupta,rohit@hospital.com,+918384049914,77,Female,,32.5,200,241,150/70,Type 2 Diabetes,Levothyroxine,100,2022-07-11,2022-08-07,Dr. Vikram Nair,Pediatrics,INS335552,-44045.3,Admitted,1
+PAT0026,Arjun Sharma,arjun@hospital.com,+918051590706,78,Other,A-,27.5,296,267,112/84,COPD,Insulin,25,2022-10-30,2022-11-20,Dr. Priya Sharma,Neurology,INS916232,109160.82,Admitted,5
+PAT0027,Meena Verma,meena@hospital.com,0000000000,49,Male,AB-,20.1,188,255,135/98,Migraine,Salbutamol,250,2024-07-02,2024-07-31,Dr. Anjali Singh,Pulmonology,INS571932,68501.93,Admitted,3
+PAT0028,Anil Mishra,anil@hospital.com,abcdefghij,80,Other,B-,23.3,89,193,115/77,Migraine,Omeprazole,10,2022-10-11,2022-10-16,Dr. Vikram Nair,Endocrinology,INS827659,42437.29,Admitted,1
+PAT0029,Deepak Kumar,deepak@hospital.com,+918750625978,60,Other,AB-,26.6,122,227,124/97,Hypertension,Aspirin,250,2024-09-03,2024-09-04,Dr. Ravi Kumar,Pediatrics,INS890075,100546.73,Critical,7
+PAT0030,Pooja Agarwal,pooja@hospital.com,12345,46,Female,,23.3,194,127,124/81,Anemia,Atorvastatin,500,2022-09-19,2022-10-09,Dr. Priya Sharma,Endocrinology,INS720644,-31468.54,Discharged,1
+PAT0031,Rohit Gupta,rohit@hospital.com,phone_number,35,Female,B+,18.2,167,203,113/89,Migraine,Omeprazole,250,2023-07-24,2023-08-18,,Pediatrics,INS975467,25067.03,Discharged,5
+PAT0032,Arjun Sharma,rahul@hospital,+918503068227,46,Other,A-,35.0,236,130,148/61,Asthma,Amlodipine,5,2022-11-09,2022-11-17,Dr. Anjali Singh,Pulmonology,INS801978,33025.41,Admitted,4
+PAT0033,Pooja Agarwal,pooja@hospital.com,+918100558303,65,Male,A-,34.9,111,199,106/97,Hypertension,Levothyroxine,250,2024-03-23,2024-04-15,Dr. Vikram Nair,Neurology,INS720859,174200.53,Admitted,1
+PAT0034,Pooja Agarwal,not_an_email,+918295287749,33,Other,A+,25.0,179,214,104/92,Migraine,Metformin,250,not-a-date,2024-10-04,Dr. Deepa Patel,General Medicine,INS766459,223435.88,Critical,-2
+PAT0035,Deepak Kumar,deepak@hospital.com,+917756502473,84,Other,O+,31.2,207,243,129/87,Acute Bronchitis,Levothyroxine,100,2023-05-18,2023-06-14,Dr. Rahul Mehta,Pediatrics,INS572700,64746.54,Critical,5
+PAT0036,Kavitha Iyer,kavitha@hospital.com,999,66,Female,A+,28.4,153,166,131/73,Migraine,Levothyroxine,100,2023-07-27,2023-08-25,Dr. Sunita Joshi,Cardiology,INS641722,237275.33,Discharged,2
+PAT0037,Pooja Agarwal,pooja@hospital.com,+918745595491,80,Other,B-,32.9,235,245,128/61,Type 2 Diabetes,Levothyroxine,25,2024-04-08,2024-05-01,Dr. Vikram Nair,Pediatrics,INS796212,147481.12,Critical,5
+PAT0038,Suresh Reddy,suresh@hospital.com,+918476426754,72,Other,O-,25.1,186,189,119/76,Asthma,Lisinopril,25,2023-10-09,2023-10-13,Dr. Anjali Singh,Oncology,INS326895,185958.14,Under Observation,5
+PAT0039,Anil Mishra,anil@hospital.com,+919253298195,54,Male,B-,23.8,162,165,119/60,Hypothyroidism,Atorvastatin,50,2022-04-04,2022-04-06,Dr. Sunita Joshi,Orthopedics,INS768854,217772.99,Critical,1
+PAT0040,Neha Tiwari,neha@hospital.com,+917052679490,54,Female,AB-,27.1,117,133,116/90,Type 2 Diabetes,Lisinopril,250,2024-10-04,2024-10-07,Dr. Priya Sharma,Orthopedics,INS256445,203729.81,Under Observation,1
+PAT0041,Sunita Singh,sunita@hospital.com,+917508745584,71,Other,B-,34.8,167,235,,Osteoporosis,Aspirin,250,2023-09-18,2023-10-07,Dr. Priya Sharma,Neurology,INS899787,55908.04,Admitted,3
+PAT0042,Rohit Gupta,rohit@hospital.com,+917348697524,38,Male,B+,29.7,110,120,126/88,Acute Bronchitis,Salbutamol,50,2022-03-08,2022-03-16,Dr. Sunita Joshi,Pediatrics,INS837135,215603.65,Discharged,2
+,Sanjay Yadav,sanjay@hospital.com,+918136253459,43,Female,A-,29.5,235,158,,Coronary Artery Disease,Lisinopril,5,2022-12-06,2023-01-01,Dr. Sunita Joshi,Pediatrics,INS560485,35466.65,Under Observation,10
+PAT0044,Vikram Nair,@,+919149511642,81,Female,A-,30.8,297,230,147/80,Acute Bronchitis,Levothyroxine,5,2022-07-07,2022-07-15,Dr. Priya Sharma,Pediatrics,INS704238,14856.76,Admitted,4
+PAT0045,Suresh Reddy,suresh@hospital.com,+919798211967,74,Female,B+,39.9,181,245,105/90,Migraine,Insulin,100,2023-10-20,2023-11-11,Dr. Rahul Mehta,Orthopedics,INS445824,105853.05,Critical,3
+PAT0046,Rohit Gupta,rohit@hospital.com,+918719929315,22,Female,A-,24.2,152,149,149/85,Hypothyroidism,Metformin,500,2024-04-26,2024-04-28,Dr. Vikram Nair,General Medicine,INS752878,190328.57,Critical,1
+PAT0047,Sunita Singh,sunita@hospital.com,+918146997816,34,Female,AB-,37.3,194,151,101/100,Acute Bronchitis,Amlodipine,20,2023-09-29,2023-10-17,Dr. Priya Sharma,Endocrinology,INS197736,60051.66,Discharged,4
+PAT0048,Priya Patel,priya@hospital.com,+919781891923,37,Female,O+,28.7,139,226,153/90,COPD,Amlodipine,500,2022-10-24,2022-11-06,Dr. Vikram Nair,Orthopedics,INS173201,72680.61,Critical,3
+,Sanjay Yadav,sanjay@hospital.com,+919180716723,52,Male,O+,33.7,284,270,137/91,Coronary Artery Disease,Salbutamol,500,2023-12-08,2023-12-19,Dr. Deepa Patel,Pulmonology,INS437408,218052.41,Admitted,5
+PAT0050,Deepak Kumar,deepak@hospital.com,+918003143045,70,Male,O-,34.1,250,217,124/69,COPD,Metformin,20,2024-10-25,2024-11-13,Dr. Ravi Kumar,Neurology,INS986088,112875.02,Stable,4
+PAT0051,Arjun Sharma,arjun@hospital.com,phone_number,70,Other,B+,18.7,270,187,121/99,Anemia,Lisinopril,100,2024-12-28,2025-01-10,Dr. Ravi Kumar,Pulmonology,INS667296,13795.28,Discharged,2
+PAT0052,Rohit Gupta,rohit@hospital.com,+919939473765,54,Male,A-,27.0,95,145,128/70,Osteoporosis,Metformin,5,2023-10-27,2023-11-22,Dr. Priya Sharma,Pediatrics,INS475876,96836.07,Admitted,2
+PAT0053,Suresh Reddy,suresh@hospital.com,+918769748771,41,Male,B+,18.8,292,217,139/75,COPD,Aspirin,20,2023-04-21,2023-05-06,Dr. Sunita Joshi,Pulmonology,INS367729,168375.98,,3
+PAT0054,Rohit Gupta,rohit@hospital.com,+919347621138,38,Male,AB-,-6.3,220,196,140/87,Osteoporosis,Salbutamol,50,2023-02-12,2023-02-25,Dr. Arun Verma,Neurology,INS348728,98434.25,Under Observation,5
+PAT0055,Vikram Nair,rahul@,+918268006448,20,Other,AB+,23.3,214,132,158/98,COPD,Levothyroxine,25,2023-12-23,2023-12-31,Dr. Vikram Nair,Pediatrics,INS810687,190116.44,Admitted,1
+PAT0056,Sanjay Yadav,sanjay@hospital.com,+919694912057,23,Female,AB-,17.8,163,153,105/78,Migraine,Insulin,20,2023-02-16,2023-02-21,Dr. Ravi Kumar,Pediatrics,INS970813,45313.38,Critical,3
+PAT0057,Pooja Agarwal,pooja@hospital.com,+918454770940,32,Female,,20.2,127,221,154/95,Migraine,Lisinopril,250,2022-01-29,2022-02-07,Dr. Rahul Mehta,Pulmonology,INS486490,169842.95,Under Observation,5
+PAT0058,,deepak@hospital.com,+919742548209,65,Male,B-,27.8,228,263,120/99,,Lisinopril,500,,2023-10-02,Dr. Deepa Patel,Neurology,INS246566,16109.97,,3
+PAT0059,Meena Verma,meena@hospital.com,+917498733671,30,Male,B+,25.9,164,258,126/97,Coronary Artery Disease,Insulin,10,,2024-10-19,Dr. Deepa Patel,Pediatrics,INS134305,174118.76,Admitted,4
+PAT0060,Meena Verma,meena@hospital.com,+918014096062,64,Male,O-,29.5,-22,211,103/85,Osteoporosis,Amlodipine,10,2024-07-20,2024-07-23,Dr. Vikram Nair,Cardiology,INS153035,197764.67,Admitted,2
+PAT0061,Anil Mishra,anil@hospital.com,+919424843951,44,Male,B-,-19.2,278,179,121/69,Acute Bronchitis,Metformin,50,2022-10-24,2022-10-29,,Orthopedics,INS215266,166959.12,Discharged,2
+PAT0062,Arjun Sharma,arjun@hospital.com,+918538638860,48,Other,O-,17.4,137,133,108/86,,Lisinopril,10,2024-09-02,2024-09-17,Dr. Ravi Kumar,Neurology,INS573962,128440.48,Stable,1
+PAT0063,Pooja Agarwal,pooja@hospital.com,+919829967158,84,Female,AB-,31.8,77,135,130/85,Anemia,Lisinopril,500,2024-06-27,2024-06-30,Dr. Rahul Mehta,General Medicine,INS737846,41341.79,Admitted,3
+PAT0064,Kavitha Iyer,kavitha@hospital.com,+919719043833,59,,O+,27.4,224,230,106/67,Hypothyroidism,Amlodipine,250,2024-07-13,2024-08-11,Dr. Vikram Nair,Endocrinology,INS455395,207717.71,Critical,4
+PAT0065,Pooja Agarwal,pooja@hospital.com,+917408390575,58,Female,O-,32.3,165,159,143/90,Type 2 Diabetes,Lisinopril,10,2022-07-10,2022-07-24,Dr. Rahul Mehta,General Medicine,INS951201,36878.29,Discharged,5
+PAT0066,Suresh Reddy,not_an_email,+919412411754,60,Other,A-,26.4,-69,228,155/63,Osteoporosis,Aspirin,50,2023-12-22,2023-12-26,Dr. Vikram Nair,Orthopedics,INS788637,123136.4,Discharged,3
+PAT0067,Neha Tiwari,neha@hospital.com,+919389142017,65,Male,O+,30.2,276,229,154/95,Acute Bronchitis,Aspirin,5,2023-07-02,2023-07-03,Dr. Anjali Singh,Pediatrics,INS836833,191790.33,Under Observation,3
+PAT0068,Arjun Sharma,arjun@hospital.com,+917779130936,36,Other,AB+,18.6,-47,127,105/93,Asthma,Insulin,250,2024-07-18,2024-07-29,Dr. Anjali Singh,General Medicine,INS426775,181791.01,Stable,5
+PAT0069,Priya Patel,priya@hospital.com,+917225953184,37,Male,A+,32.5,139,233,142/87,COPD,Aspirin,500,2024-04-28,2024-05-07,Dr. Vikram Nair,Neurology,INS461939,110328.84,Under Observation,5
+PAT0070,Meena Verma,meena@hospital.com,+919263164755,57,Male,B-,26.1,223,134,100/73,Osteoporosis,Amlodipine,20,2023-06-08,2023-06-18,Dr. Ravi Kumar,Neurology,INS108105,126859.41,Critical,-2
+PAT0071,Rahul Mehta,rahul@hospital.com,+918632978535,47,Other,O-,18.7,290,130,127/61,COPD,Lisinopril,100,2024-05-29,2024-06-17,Dr. Deepa Patel,Endocrinology,INS403578,33217.48,Discharged,3
+PAT0072,Rahul Mehta,rahul@hospital.com,+919654827789,76,Other,O-,19.0,286,147,115/87,,Insulin,10,2024-03-21,2024-04-18,Dr. Sunita Joshi,General Medicine,INS332335,86601.81,Admitted,1
+PAT0073,Suresh Reddy,suresh@hospital.com,999,32,Other,B-,37.8,159,209,146/69,Asthma,Lisinopril,20,2023-06-09,2023-06-16,Dr. Anjali Singh,Orthopedics,INS897143,190992.33,Discharged,2
+PAT0074,Anil Mishra,anil@hospital.com,+919697019445,81,Female,AB-,32.7,295,264,141/100,Acute Bronchitis,Omeprazole,100,2022-11-06,2022-11-21,Dr. Rahul Mehta,Pulmonology,INS563688,159689.35,Under Observation,5
+PAT0075,Arjun Sharma,arjun@hospital.com,+918511580323,82,Male,,27.6,79,134,123/78,Type 2 Diabetes,Lisinopril,250,2024-08-05,2024-08-24,Dr. Priya Sharma,Pulmonology,INS949153,145055.89,Admitted,3
+PAT0076,Kavitha Iyer,kavitha@hospital.com,+919042811108,82,Male,A+,27.4,-15,207,145/65,Hypothyroidism,Atorvastatin,5,2023-05-23,2023-06-15,Dr. Arun Verma,Pulmonology,INS649525,133073.27,Admitted,3
+PAT0077,Anjali Joshi,anjali@hospital.com,+918215018687,67,Female,O-,32.6,83,205,104/81,Type 2 Diabetes,Ibuprofen,250,2023-08-05,2023-08-14,Dr. Anjali Singh,General Medicine,INS185461,147771.18,Admitted,3
+PAT0078,Vikram Nair,vikram@hospital.com,+919817733555,68,Male,A-,24.1,166,204,152/68,Hypothyroidism,Lisinopril,250,2024-11-07,2024-11-19,Dr. Priya Sharma,General Medicine,INS423869,49164.42,,3
+PAT0079,Anil Mishra,anil@hospital.com,+919088517710,42,Male,B+,20.6,145,145,132/94,Hypothyroidism,Metformin,100,2022-09-26,2022-10-16,Dr. Deepa Patel,Orthopedics,INS270128,49307.26,Stable,2
+PAT0080,Pooja Agarwal,pooja@hospital.com,+918879792991,23,Female,O-,32.6,130,233,139/78,COPD,Amlodipine,25,2023-09-26,2023-10-22,Dr. Arun Verma,Oncology,INS485709,171185.17,Stable,4
+PAT0081,,meena@hospital.com,+918210200352,66,Other,AB+,39.2,279,171,151/98,Coronary Artery Disease,Levothyroxine,5,2024-09-11,2024-10-09,,Neurology,INS845957,-9355.1,Discharged,3
+PAT0082,Priya Patel,priya@hospital.com,+917688536251,52,Female,B+,36.1,93,176,152/88,Migraine,Metformin,250,2022-04-20,2022-05-03,Dr. Ravi Kumar,Oncology,INS504924,248658.71,Under Observation,2
+PAT0083,Arjun Sharma,arjun@hospital.com,+918368741091,30,Other,O-,35.2,105,129,118/90,,Salbutamol,500,2022-01-11,2022-02-09,Dr. Rahul Mehta,Cardiology,INS368355,57835.41,Admitted,5
+PAT0084,Pooja Agarwal,pooja@hospital.com,+919615120114,85,Female,A-,34.9,130,197,107/63,Asthma,Insulin,500,2022-05-09,2022-05-13,Dr. Arun Verma,Cardiology,INS762652,131267.05,Admitted,2
+PAT0085,Vikram Nair,vikram@hospital.com,+918843567009,18,Other,O-,-12.4,176,167,142/65,,Omeprazole,10,2024-12-13,2024-12-31,Dr. Priya Sharma,Endocrinology,INS592972,15665.93,,3
+PAT0086,Vikram Nair,vikram@hospital.com,+917069759864,63,Male,O-,22.5,238,280,106/97,Migraine,Atorvastatin,5,2023-12-23,2024-01-10,Dr. Ravi Kumar,Orthopedics,INS970720,195889.94,Critical,4
+PAT0087,,rohit@hospital.com,+917782878018,35,Male,AB-,17.9,121,131,150/72,Hypertension,Omeprazole,50,2024-11-21,2024-12-04,Dr. Arun Verma,Pediatrics,INS138399,189556.28,Admitted,3
+PAT0088,Anjali Joshi,anjali@hospital.com,+917205316740,60,Female,,35.4,181,222,147/88,Anemia,Omeprazole,20,2024-10-13,2024-11-05,Dr. Arun Verma,General Medicine,INS936020,132222.58,,4
+PAT0089,Priya Patel,priya@hospital.com,+918849443634,41,,O+,24.4,90,203,142/78,Osteoporosis,Salbutamol,250,2022-12-08,2022-12-31,Dr. Arun Verma,General Medicine,INS568849,15377.01,Under Observation,5
+PAT0090,Deepak Kumar,deepak@hospital.com,+918179206294,25,Male,AB+,25.4,275,160,160/61,Coronary Artery Disease,Aspirin,500,2022-03-13,2022-03-18,Dr. Rahul Mehta,Oncology,INS916332,163064.9,Under Observation,4
+PAT0091,Kavitha Iyer,kavitha@hospital.com,+917139093888,37,Other,,38.8,165,233,148/64,Acute Bronchitis,Atorvastatin,100,2024-03-26,2024-04-06,Dr. Sunita Joshi,Oncology,INS218959,11348.77,Admitted,4
+,Suresh Reddy,suresh@hospital.com,+918662098122,33,Female,O+,33.2,124,276,118/91,Asthma,Lisinopril,20,32-13-2023,2022-06-16,Dr. Anjali Singh,Pulmonology,INS192055,203575.74,Under Observation,3
+PAT0093,Pooja Agarwal,pooja@hospital.com,+917278911214,55,Female,B+,33.4,249,164,150/83,Hypothyroidism,Amlodipine,10,2023-02-16,2023-03-14,Dr. Anjali Singh,Oncology,INS928766,-42747.94,Under Observation,5
+PAT0094,Kavitha Iyer,rahul@,+918584461407,77,Other,,31.1,92,136,119/85,COPD,Ibuprofen,250,2024-04-18,2024-05-15,Dr. Rahul Mehta,Orthopedics,INS432427,162372.95,,4
+PAT0095,Rohit Gupta,rohit@hospital.com,+919222044336,62,Male,B+,34.7,103,230,132/63,Type 2 Diabetes,Ibuprofen,20,2023-09-15,2023-09-21,Dr. Anjali Singh,General Medicine,INS843788,60240.22,Stable,3
+PAT0096,Neha Tiwari,neha@hospital.com,+917338700713,50,Male,O+,19.9,147,277,134/65,Hypothyroidism,Atorvastatin,20,2022-12-17,2023-01-08,Dr. Ravi Kumar,Cardiology,INS965322,216626.39,Discharged,1
+PAT0097,Rohit Gupta,@hospital,+919477213586,51,Other,B-,34.6,176,278,140/61,COPD,Ibuprofen,50,2023-09-11,2023-09-27,,Endocrinology,INS411882,116118.31,Discharged,2
+PAT0098,Meena Verma,meena@hospital.com,+918785081806,79,Female,B-,24.8,106,200,155/80,Migraine,Insulin,20,31-Feb-2023,2024-02-15,Dr. Rahul Mehta,General Medicine,INS353480,119285.78,Under Observation,4
+PAT0099,Sunita Singh,sunita@hospital.com,+917605064858,30,,O+,38.7,291,277,126/75,Coronary Artery Disease,Omeprazole,100,2023-01-24,2023-02-18,Dr. Anjali Singh,Pulmonology,INS639728,119369.7,Under Observation,-1
+PAT0100,Arjun Sharma,arjun@hospital.com,+917386757895,68,Other,AB-,39.2,125,269,122/63,Hypertension,Levothyroxine,500,2024-08-21,2024-08-31,Dr. Priya Sharma,Neurology,INS551860,37814.06,Under Observation,3
+PAT0101,Anil Mishra,anil@hospital.com,+918731963069,64,Male,AB+,18.2,213,169,123/95,Osteoporosis,Lisinopril,250,2024-10-29,2024-11-13,Dr. Sunita Joshi,Neurology,INS234913,243895.29,Critical,3
+PAT0102,Anil Mishra,anil@hospital.com,+918456360258,64,Male,B-,30.9,172,248,102/62,Hypertension,Atorvastatin,100,2024-08-28,2024-09-14,Dr. Arun Verma,Orthopedics,INS735710,223817.26,Admitted,3
+PAT0103,Sanjay Yadav,sanjay@hospital.com,+919633107545,58,Male,AB+,39.8,259,196,137/81,Hypothyroidism,Ibuprofen,500,2023-09-06,2023-09-22,Dr. Priya Sharma,General Medicine,INS447329,170082.57,Critical,10
+,Vikram Nair,vikram@hospital.com,+919955124970,21,Other,AB-,23.1,237,268,136/74,Hypertension,Aspirin,500,2022-12-16,2023-01-02,,,INS961574,171778.09,Discharged,5
+PAT0105,Pooja Agarwal,pooja@hospital.com,+917471997674,42,Male,AB-,24.2,108,225,144/73,Anemia,Ibuprofen,500,2022-05-08,2022-05-31,Dr. Anjali Singh,Oncology,INS688132,84637.14,Critical,5
+PAT0106,Deepak Kumar,deepak@hospital.com,+918347557120,40,Female,O-,29.6,243,187,139/90,Asthma,Amlodipine,50,2023-09-04,2023-09-12,Dr. Sunita Joshi,,INS839142,55783.06,Critical,3
+PAT0107,Meena Verma,meena@hospital.com,+918498098234,53,Female,A-,30.2,209,217,157/85,Migraine,Atorvastatin,50,2022-03-28,2022-04-07,Dr. Rahul Mehta,General Medicine,INS563864,165713.15,Critical,2
+PAT0108,Sunita Singh,sunita@hospital.com,--,52,Other,O+,20.2,227,270,115/75,Hypertension,Ibuprofen,25,2023-04-22,2023-04-24,Dr. Rahul Mehta,Endocrinology,INS446337,180752.72,Discharged,7
+PAT0109,Arjun Sharma,arjun@hospital.com,+919363746243,38,Female,AB-,28.0,121,193,120/78,Hypertension,Lisinopril,25,2024-12-31,2025-01-24,Dr. Priya Sharma,Orthopedics,INS538184,221150.02,Admitted,1
+PAT0110,Neha Tiwari,neha@hospital.com,+918705078697,81,Male,O+,37.2,72,196,136/98,Type 2 Diabetes,Omeprazole,50,2024-07-19,2024-08-09,Dr. Arun Verma,Orthopedics,INS992400,-18518.84,Under Observation,2
+PAT0111,Anil Mishra,anil@hospital.com,+917483814153,60,,AB-,31.9,253,167,100/81,Osteoporosis,Aspirin,25,2022-12-26,2023-01-15,Dr. Deepa Patel,Endocrinology,INS640310,85342.03,Critical,1
+PAT0112,Rahul Mehta,rahul@hospital.com,+917603923411,79,Female,B-,17.2,168,180,128/77,Migraine,Levothyroxine,5,2023-06-20,2023-07-11,Dr. Ravi Kumar,Oncology,INS165142,168607.6,Critical,3
+PAT0113,Rahul Mehta,rahul@hospital.com,+918741251076,82,Other,O+,32.9,233,195,123/99,Asthma,Amlodipine,20,2024-09-06,2024-09-11,Dr. Arun Verma,General Medicine,INS536045,176975.48,Critical,5
+PAT0114,Anil Mishra,anil@hospital.com,+919852263888,45,Male,A-,29.1,205,212,104/96,Type 2 Diabetes,Metformin,25,2022-11-03,2022-11-09,,Pulmonology,INS221886,171672.33,Stable,4
+PAT0115,Priya Patel,priya@hospital.com,+919192045446,75,Male,AB-,20.0,176,236,136/63,Hypothyroidism,Salbutamol,50,2022-02-14,2022-02-27,,Cardiology,INS882032,58385.82,Discharged,1
+PAT0116,Deepak Kumar,deepak@hospital.com,+918479740208,26,Other,,38.5,87,240,102/78,Anemia,Atorvastatin,20,2024-05-10,2024-05-22,Dr. Deepa Patel,Pulmonology,INS495833,97033.16,Stable,2
+PAT0117,Rohit Gupta,rohit@hospital.com,+918493660313,33,Male,AB+,29.2,-32,177,153/60,Hypertension,Levothyroxine,500,2024-05-18,2024-06-05,Dr. Deepa Patel,Oncology,INS359535,117853.19,,-1
+PAT0118,Sunita Singh,sunita@hospital.com,+917484664056,22,Other,AB+,31.1,296,124,115/73,Type 2 Diabetes,Lisinopril,5,2024-07-03,2024-07-23,,Oncology,INS876513,15838.0,Critical,2
+PAT0119,Suresh Reddy,suresh@hospital.com,+917933164135,25,Male,O+,22.4,257,267,120/96,Acute Bronchitis,Omeprazole,25,2023-09-11,2023-10-10,Dr. Anjali Singh,Oncology,INS533649,78622.73,Discharged,5
+PAT0120,Kavitha Iyer,kavitha@hospital.com,+917752191321,72,Other,AB-,18.1,158,217,150/93,Migraine,Insulin,250,2022-11-02,2022-11-12,Dr. Deepa Patel,Orthopedics,INS891062,136792.42,Admitted,2
+PAT0121,Vikram Nair,vikram@hospital.com,+917619986018,77,Male,AB+,39.3,212,255,,Asthma,Levothyroxine,25,2023-11-08,2023-11-29,Dr. Rahul Mehta,Pulmonology,INS988283,95913.99,Stable,2
+PAT0122,Arjun Sharma,arjun@hospital.com,+918153033730,66,Other,A+,37.1,118,270,146/95,Asthma,Salbutamol,25,2023-11-13,2023-11-23,Dr. Priya Sharma,Oncology,INS299254,240709.0,,4
+PAT0123,Sanjay Yadav,sanjay@hospital.com,+918041929790,44,Female,B-,29.7,268,192,124/89,Hypothyroidism,Omeprazole,50,2023-06-20,2023-07-02,Dr. Arun Verma,Pulmonology,INS203398,201690.07,Critical,8
+PAT0124,Sanjay Yadav,sanjay@hospital.com,+917872425923,65,,AB+,-13.6,291,176,147/69,Hypertension,Levothyroxine,250,2023-08-28,2023-09-02,Dr. Vikram Nair,General Medicine,INS341192,98060.74,Admitted,4
+PAT0125,Suresh Reddy,suresh@hospital.com,+919811519776,61,Female,AB-,39.2,234,245,129/70,Migraine,Atorvastatin,20,2024-09-27,2024-10-03,Dr. Priya Sharma,Cardiology,INS979827,212440.86,Discharged,1
+PAT0126,Deepak Kumar,deepak@hospital.com,+917590521614,47,Male,B+,17.2,199,236,123/63,,Aspirin,500,2024-09-26,2024-09-27,Dr. Priya Sharma,Endocrinology,INS112426,9097.91,Under Observation,5
+PAT0127,Vikram Nair,vikram@hospital.com,+917073626894,82,Other,AB+,35.5,115,147,,Hypothyroidism,Atorvastatin,25,2023-01-29,2023-02-18,Dr. Sunita Joshi,General Medicine,INS380310,199759.4,Discharged,3
+PAT0128,Deepak Kumar,deepak@hospital.com,0000000000,49,Other,B-,23.9,281,140,141/62,Type 2 Diabetes,Insulin,250,2024-02-12,2024-03-01,,Cardiology,INS767678,7315.29,Admitted,1
+PAT0129,Meena Verma,meena@hospital.com,+918863627766,60,Other,A-,37.6,80,178,113/96,COPD,Levothyroxine,5,2022-06-02,2022-06-24,Dr. Sunita Joshi,Cardiology,INS288066,232547.76,Under Observation,1
+PAT0130,Sunita Singh,rahul@hospital,+919521300895,36,Other,AB+,38.4,146,161,,,Insulin,100,2024-02-26,2024-03-22,Dr. Anjali Singh,Neurology,INS625119,187636.86,Under Observation,1
+PAT0131,Priya Patel,priya@hospital.com,12345,47,Male,O-,30.9,227,272,125/80,Hypertension,Levothyroxine,500,2024-10-01,2024-10-09,Dr. Ravi Kumar,Endocrinology,INS552825,50505.77,,4
+PAT0132,Priya Patel,priya@hospital.com,+919656935034,55,Male,A-,18.9,109,217,145/100,Coronary Artery Disease,Insulin,100,2024-01-09,2024-01-13,Dr. Rahul Mehta,Cardiology,INS423241,113960.29,Under Observation,1
+PAT0133,,rahul@hospital.com,+917374938761,41,Female,AB-,29.8,201,224,106/61,Type 2 Diabetes,Omeprazole,10,2023-10-27,2023-11-24,Dr. Deepa Patel,Cardiology,INS406024,106383.47,Discharged,5
+PAT0134,,sanjay@hospital.com,+918042571199,84,Male,,20.9,138,197,117/91,Coronary Artery Disease,Lisinopril,20,2024-06-09,2024-06-18,Dr. Deepa Patel,Pediatrics,INS607753,196753.32,Under Observation,3
+PAT0135,,sunita@hospital.com,+919684499242,81,Other,B-,27.5,104,197,100/85,Migraine,Aspirin,250,2023-11-06,2023-11-21,Dr. Ravi Kumar,Endocrinology,INS955088,206766.13,Stable,2
+PAT0136,Vikram Nair,vikram@hospital.com,+918377246344,43,Female,O-,21.1,171,201,118/100,COPD,Aspirin,25,2023-10-30,2023-11-12,Dr. Sunita Joshi,Endocrinology,INS482746,32902.52,Stable,2
+PAT0137,Kavitha Iyer,rahul@hospital,+919343459102,41,Other,A+,38.9,188,173,128/78,Type 2 Diabetes,Insulin,500,2022-10-13,2022-11-03,Dr. Sunita Joshi,Oncology,INS364955,166372.43,Critical,4
+PAT0138,Priya Patel,priya@hospital.com,+918928726872,79,Other,AB+,29.3,292,227,134/62,Migraine,Ibuprofen,10,2022-08-12,2022-09-06,Dr. Vikram Nair,General Medicine,INS274418,163514.96,Discharged,5
+PAT0139,Rohit Gupta,rohit@hospital.com,+919909719639,69,Female,AB+,19.4,95,186,114/92,Hypothyroidism,Ibuprofen,25,2024-07-01,2024-07-13,Dr. Deepa Patel,Pulmonology,INS909859,171491.09,Stable,2
+PAT0140,Anjali Joshi,anjali@hospital.com,+917105495798,79,Male,O+,26.6,91,149,153/69,Migraine,Levothyroxine,100,2024-07-21,2024-08-16,Dr. Vikram Nair,Pulmonology,INS465219,121659.82,Critical,4
+PAT0141,Anjali Joshi,anjali@hospital.com,+917288511612,56,Male,,17.5,157,147,143/70,Asthma,Ibuprofen,20,2022-11-24,2022-12-05,Dr. Deepa Patel,,INS343118,200450.17,Admitted,2
+PAT0142,Rohit Gupta,rohit@hospital.com,+919823115971,73,Female,A+,34.0,296,170,128/97,Anemia,Insulin,5,2023-03-16,2023-03-23,Dr. Sunita Joshi,Neurology,INS705393,29929.25,Stable,2
+PAT0143,Anjali Joshi,anjali@hospital.com,+918400094541,43,Female,A-,23.0,290,245,,Migraine,Aspirin,250,2024-03-14,2024-04-02,Dr. Rahul Mehta,,INS469082,212151.86,Stable,2
+PAT0144,Neha Tiwari,neha@hospital.com,+919893042129,56,Other,A-,32.5,150,150,115/79,Type 2 Diabetes,Atorvastatin,100,2022-10-17,2022-11-03,Dr. Deepa Patel,Endocrinology,INS725397,38777.49,,4
+PAT0145,,rahul@hospital.com,+919090232661,40,Other,B+,28.3,105,167,120/88,Acute Bronchitis,Metformin,100,2022-01-20,2022-02-05,Dr. Anjali Singh,Oncology,INS954815,99066.32,Stable,5
+PAT0146,Rohit Gupta,rohit@hospital.com,+919125879326,70,Other,AB-,26.6,285,233,131/70,Type 2 Diabetes,Aspirin,5,2023-03-28,2023-04-07,Dr. Priya Sharma,Pediatrics,INS335765,136714.11,Admitted,4
+PAT0147,Kavitha Iyer,kavitha@hospital.com,+919127354612,83,Male,A-,23.2,209,213,134/62,COPD,Ibuprofen,25,2024-05-20,2024-05-24,,Pediatrics,INS133796,115184.42,Under Observation,1
+PAT0148,,meena@hospital.com,+917504169141,48,Male,O-,36.8,226,229,110/99,Coronary Artery Disease,Amlodipine,25,2022-05-02,2022-05-21,Dr. Ravi Kumar,Pediatrics,INS725850,136998.29,Under Observation,3
+PAT0149,Vikram Nair,vikram@hospital.com,+919459880594,52,Other,A-,20.1,262,225,158/63,Osteoporosis,Atorvastatin,20,2023-05-27,2023-06-01,Dr. Ravi Kumar,Oncology,INS898462,211671.14,Critical,4
+PAT0150,Rahul Mehta,rahul@hospital.com,+919480023764,52,Other,AB+,25.6,89,143,125/92,Osteoporosis,Omeprazole,500,2024-09-26,2024-10-07,Dr. Priya Sharma,Neurology,INS866437,243176.82,Under Observation,1
+PAT0151,Anil Mishra,rahul@,+919295335613,68,Male,AB+,36.0,196,188,120/78,Migraine,Ibuprofen,20,2024-09-20,2024-10-16,Dr. Ravi Kumar,Cardiology,INS148174,29395.81,Critical,1
+PAT0152,Priya Patel,priya@hospital.com,+917678534043,74,Female,A+,39.8,179,171,144/68,Osteoporosis,Atorvastatin,50,2022-07-11,2022-08-01,Dr. Ravi Kumar,Pediatrics,INS186424,96101.72,Admitted,1
+PAT0153,Deepak Kumar,plaintext,+919686949912,57,Other,B-,26.9,93,144,100/73,COPD,Lisinopril,20,2023-04-09,2023-04-26,Dr. Arun Verma,Cardiology,INS108454,175421.29,Discharged,4
+PAT0154,Pooja Agarwal,pooja@hospital.com,+917567687951,79,Male,B-,25.8,257,146,106/80,Migraine,Levothyroxine,20,2024-02-23,2024-03-19,Dr. Anjali Singh,Orthopedics,INS171734,134974.53,,5
+PAT0155,Rohit Gupta,rohit@hospital.com,+917704875220,74,Female,B-,31.4,108,225,139/88,Asthma,Lisinopril,10,2022-10-14,2022-11-08,Dr. Rahul Mehta,,INS468611,240995.93,Under Observation,2
+PAT0156,Sunita Singh,sunita@hospital.com,12345,28,Male,O+,34.9,246,126,154/79,Asthma,Ibuprofen,25,2024-03-13,2024-03-23,Dr. Priya Sharma,Oncology,INS618927,99541.97,Admitted,4
+PAT0157,Rohit Gupta,rohit@hospital.com,+919550908958,27,Other,A+,39.7,151,153,,Anemia,Omeprazole,20,31-Feb-2023,2024-09-16,Dr. Rahul Mehta,Cardiology,INS715895,21545.48,Under Observation,2
+PAT0158,Arjun Sharma,arjun@hospital.com,+917259711746,68,Other,O+,31.5,198,226,127/85,Type 2 Diabetes,Ibuprofen,20,2023-07-23,2023-07-26,Dr. Sunita Joshi,Neurology,INS636141,230626.59,Admitted,5
+PAT0159,,anjali@hospital.com,N/A,26,Female,AB+,33.8,286,181,103/75,Type 2 Diabetes,Insulin,10,2024-07-17,2024-08-06,Dr. Priya Sharma,,INS798435,186714.91,,1
+PAT0160,Arjun Sharma,rahul@,0000000000,19,Male,AB-,38.9,203,252,150/76,Coronary Artery Disease,Omeprazole,20,2023-07-05,2023-07-29,Dr. Rahul Mehta,Cardiology,INS451284,202741.42,Under Observation,5
+PAT0161,Priya Patel,priya@hospital.com,+918129360134,27,Female,AB-,28.7,84,247,154/96,Coronary Artery Disease,Omeprazole,20,2023-06-07,2023-07-02,Dr. Rahul Mehta,Neurology,INS339499,186491.09,Discharged,1
+PAT0162,Neha Tiwari,neha@hospital.com,+917052776893,49,Male,AB-,25.4,108,165,159/62,Hypothyroidism,Insulin,25,2023-10-22,2023-10-30,Dr. Deepa Patel,General Medicine,INS384434,207369.26,Stable,3
+PAT0163,Priya Patel,priya@hospital.com,+919156249415,24,Male,,35.5,81,222,104/89,Osteoporosis,Levothyroxine,100,2022-06-26,2022-07-14,Dr. Arun Verma,Cardiology,INS486839,54164.43,Stable,3
+PAT0164,Pooja Agarwal,rahul@.com,+919674551397,49,Female,O-,30.6,196,170,146/94,Asthma,Atorvastatin,5,2024-04-19,2024-04-20,Dr. Vikram Nair,General Medicine,INS766833,210695.63,Discharged,3
+PAT0165,Arjun Sharma,arjun@hospital.com,+919823098529,66,,O+,19.4,-16,180,,Hypertension,Atorvastatin,50,2022-07-10,2022-07-12,,Endocrinology,INS834891,224416.6,Critical,1
+PAT0166,Kavitha Iyer,kavitha@hospital.com,+917410500102,82,Male,AB+,18.7,215,135,127/68,Asthma,Levothyroxine,50,2023-10-08,2023-11-07,Dr. Deepa Patel,General Medicine,INS433507,115925.67,Admitted,1
+PAT0167,Sunita Singh,plaintext,+917584595923,31,Male,A-,20.8,189,200,126/67,Hypothyroidism,Omeprazole,25,2024-07-14,2024-07-24,Dr. Arun Verma,Pediatrics,INS993892,34378.82,Admitted,8
+PAT0168,Neha Tiwari,neha@hospital.com,+919993068140,23,Male,O-,20.4,252,183,122/85,Hypothyroidism,Metformin,50,2023-06-17,2023-07-14,,Cardiology,INS524035,214377.32,,5
+PAT0169,Sunita Singh,sunita@hospital.com,+917406841968,77,Male,,19.8,85,176,108/72,Anemia,Omeprazole,10,2023-06-15,2023-07-15,Dr. Rahul Mehta,Cardiology,INS167603,53448.83,,2
+PAT0170,Priya Patel,priya@hospital.com,+918423995953,33,,AB-,18.2,216,230,152/85,COPD,Metformin,250,2024-05-23,2024-05-29,Dr. Ravi Kumar,Oncology,INS296242,72370.53,Critical,2
+PAT0171,Arjun Sharma,arjun@hospital.com,+919637567649,49,Other,O+,28.5,295,260,130/63,Type 2 Diabetes,Levothyroxine,250,2022-10-09,2022-10-23,Dr. Vikram Nair,Oncology,INS761393,248551.38,Stable,1
+PAT0172,,deepak@hospital.com,+918542374768,79,Other,AB-,-15.9,214,248,120/84,Osteoporosis,Atorvastatin,5,2023-10-16,2023-11-05,Dr. Vikram Nair,Cardiology,INS950069,195741.88,,4
+PAT0173,Suresh Reddy,suresh@hospital.com,+918535162577,47,Male,A-,22.7,131,188,134/63,Asthma,Aspirin,250,2023-12-28,2024-01-27,Dr. Anjali Singh,Orthopedics,INS348041,150167.28,Under Observation,5
+PAT0174,,arjun@hospital.com,+918510463320,36,,B-,36.2,277,246,134/79,Coronary Artery Disease,Salbutamol,5,2022-07-04,2022-07-06,Dr. Vikram Nair,Oncology,INS120896,-33504.4,Discharged,3
+PAT0175,Sanjay Yadav,sanjay@hospital.com,+919637688758,43,Male,O-,33.5,275,202,103/61,Coronary Artery Disease,Aspirin,20,2022-08-16,2022-09-13,Dr. Ravi Kumar,Neurology,INS491738,177611.81,Critical,5
+PAT0176,Priya Patel,priya@hospital.com,+918445518797,56,Female,B+,39.4,257,231,150/100,COPD,Omeprazole,20,32-13-2023,2024-01-09,Dr. Anjali Singh,Endocrinology,INS421727,184828.77,Under Observation,2
+PAT0177,,rahul@hospital.com,+917007721941,68,Other,A+,-6.7,151,276,114/100,Acute Bronchitis,Lisinopril,500,2022-10-16,2022-10-27,Dr. Rahul Mehta,Oncology,INS463656,245683.02,Admitted,7
+PAT0178,Neha Tiwari,neha@hospital.com,+919877733629,60,Female,A+,23.1,133,137,122/76,Type 2 Diabetes,Metformin,5,2024-03-01,2024-03-16,Dr. Deepa Patel,Orthopedics,INS534130,125805.09,Critical,3
+PAT0179,Suresh Reddy,suresh@hospital.com,+918612105539,30,Female,B-,20.7,88,128,118/61,Migraine,Levothyroxine,10,2022-06-01,2022-06-12,Dr. Anjali Singh,Endocrinology,INS268720,184336.35,Stable,8
+PAT0180,,anjali@hospital.com,--,79,Other,A+,26.9,237,162,138/87,Coronary Artery Disease,Metformin,10,2023-11-10,2023-11-17,Dr. Vikram Nair,Endocrinology,INS831063,140757.55,Stable,3
+PAT0181,,rohit@hospital.com,+918209132386,56,Male,A-,18.1,216,260,153/91,Coronary Artery Disease,Metformin,100,2022-01-08,2022-01-22,Dr. Rahul Mehta,Pediatrics,INS963918,167194.96,Stable,4
+PAT0182,Sunita Singh,sunita@hospital.com,+917416555576,21,Male,B+,31.7,90,241,154/67,Osteoporosis,Insulin,500,2024-09-28,2024-10-27,Dr. Sunita Joshi,Neurology,INS773045,138310.88,Admitted,3
+PAT0183,Sanjay Yadav,a@b,+918638294596,65,Male,AB-,18.0,182,239,116/74,Osteoporosis,Aspirin,5,2022-11-06,2022-12-01,Dr. Rahul Mehta,Neurology,INS800596,89228.89,Stable,4
+PAT0184,Anil Mishra,anil@hospital.com,+919532855799,47,Other,,36.3,279,253,126/94,COPD,Aspirin,25,2024-09-02,2024-09-12,Dr. Rahul Mehta,Endocrinology,INS995420,180004.9,,5
+PAT0185,Sanjay Yadav,sanjay@hospital.com,999,36,Male,AB-,21.0,112,174,151/72,Coronary Artery Disease,Metformin,250,2022-06-10,2022-07-02,Dr. Deepa Patel,Oncology,INS962520,158670.42,Stable,3
+PAT0186,,anjali@hospital.com,+917287814151,29,Female,AB+,29.7,289,190,133/89,Hypertension,Aspirin,250,2022-08-19,2022-09-02,Dr. Anjali Singh,Orthopedics,INS694116,149043.86,Discharged,1
+PAT0187,Kavitha Iyer,kavitha@hospital.com,+917433750626,54,,O-,37.2,137,218,141/91,Acute Bronchitis,Aspirin,500,32-13-2023,2022-03-24,Dr. Sunita Joshi,Endocrinology,INS250840,156469.9,Critical,1
+PAT0188,Deepak Kumar,not_an_email,+918423756197,48,Male,AB-,38.2,299,215,101/81,Osteoporosis,Levothyroxine,50,2024-10-03,2024-10-31,Dr. Rahul Mehta,Oncology,INS240913,78617.71,Critical,3
+PAT0189,Vikram Nair,vikram@hospital.com,+918790025237,29,Male,AB-,21.9,280,224,147/91,Hypothyroidism,Omeprazole,5,2024-11-21,2024-12-17,Dr. Anjali Singh,Neurology,INS426236,178844.5,Critical,2
+PAT0190,Anil Mishra,anil@hospital.com,+919251792132,21,Male,B-,37.1,121,134,115/62,COPD,Metformin,100,2023-02-12,2023-02-21,Dr. Ravi Kumar,Pulmonology,INS629663,-22448.01,Discharged,1
+PAT0191,,sunita@hospital.com,+918599732557,80,Other,AB-,21.1,292,241,137/95,Migraine,Omeprazole,20,2023-06-14,2023-07-08,,Pediatrics,INS128783,99708.59,Admitted,5
+PAT0192,Anil Mishra,anil@hospital.com,+917920491305,46,Other,B-,32.6,138,224,132/61,Hypertension,Salbutamol,20,2022-12-21,2023-01-10,Dr. Priya Sharma,Oncology,INS364650,154044.25,Under Observation,3
+,Deepak Kumar,deepak@hospital.com,+918616949739,62,Female,O+,22.0,147,253,152/99,,Aspirin,10,2022-01-16,2022-02-02,Dr. Ravi Kumar,Pediatrics,INS412974,172681.22,Critical,1
+PAT0194,Anjali Joshi,anjali@hospital.com,+918187486518,59,Female,O+,32.1,298,196,112/69,Hypothyroidism,Amlodipine,5,2024-04-07,2024-04-29,Dr. Ravi Kumar,Orthopedics,INS856320,11236.54,Critical,3
+PAT0195,Vikram Nair,vikram@hospital.com,+918797725951,69,Female,,30.4,216,168,121/74,Hypothyroidism,Salbutamol,100,2024-11-04,2024-11-14,Dr. Anjali Singh,Orthopedics,INS408054,-5554.61,Admitted,3
+PAT0196,Pooja Agarwal,pooja@hospital.com,+919401022668,41,Other,O-,32.1,126,210,114/79,Anemia,Omeprazole,100,2023-06-18,2023-07-07,Dr. Sunita Joshi,Pulmonology,INS992562,33856.46,Discharged,5
+PAT0197,,kavitha@hospital.com,+919665691647,27,Female,B-,28.5,292,217,133/79,Anemia,Metformin,20,2022-10-09,2022-10-16,Dr. Ravi Kumar,Endocrinology,INS697062,223747.06,,2
+PAT0198,Anjali Joshi,plaintext,+917774626412,28,Female,O-,31.5,115,200,140/63,Hypertension,Salbutamol,50,2023-03-05,2023-03-30,Dr. Anjali Singh,Orthopedics,INS613358,197376.67,Discharged,2
+PAT0199,Kavitha Iyer,kavitha@hospital.com,+918862776335,72,Female,AB+,39.2,168,121,102/94,Asthma,Omeprazole,5,2023-10-22,2023-11-16,Dr. Vikram Nair,Cardiology,INS809621,6010.34,Admitted,2
+PAT0200,Pooja Agarwal,pooja@hospital.com,+918478971008,57,Male,A-,25.8,220,198,110/64,Hypertension,Levothyroxine,50,31-Feb-2023,2024-08-15,Dr. Ravi Kumar,Endocrinology,INS820141,248890.74,Under Observation,4
+PAT0096,Neha Tiwari,neha@hospital.com,+917338700713,50,Male,O+,19.9,147,277,134/65,Hypothyroidism,Atorvastatin,20,2022-12-17,2023-01-08,Dr. Ravi Kumar,Cardiology,INS965322,216626.39,Discharged,1
+PAT0180,,anjali@hospital.com,--,79,Other,A+,26.9,237,162,138/87,Coronary Artery Disease,Metformin,10,2023-11-10,2023-11-17,Dr. Vikram Nair,Endocrinology,INS831063,140757.55,Stable,3
+PAT0028,Anil Mishra,anil@hospital.com,abcdefghij,80,Other,B-,23.3,89,193,115/77,Migraine,Omeprazole,10,2022-10-11,2022-10-16,Dr. Vikram Nair,Endocrinology,INS827659,42437.29,Admitted,1
+PAT0012,Rohit Gupta,rohit@hospital.com,+919806569935,30,Male,AB+,33.7,274,147,115/72,Asthma,Ibuprofen,500,2022-10-15,2022-10-29,Dr. Anjali Singh,Pediatrics,INS585100,-40933.25,Discharged,4
+,Sanjay Yadav,sanjay@hospital.com,+918136253459,43,Female,A-,29.5,235,158,,Coronary Artery Disease,Lisinopril,5,2022-12-06,2023-01-01,Dr. Sunita Joshi,Pediatrics,INS560485,35466.65,Under Observation,10
