@@ -6,7 +6,7 @@
 
 | Field | Value |
 |---|---|
-| **Purpose** | Healthcare patient records pipeline — validate clinical data, detect anomalies, ensure data quality for reporting and analytics |
+| **Purpose** | Healthcare patient records pipeline — validate clinical data |
 | **Source** | SQLITE |
 | **Raw Rows** | 205 |
 | **Silver Rows** | 192 |
